@@ -1,2 +1,2 @@
-Test
-Der er mere tect nu :)
+Test.
+Der er mere tekst nu :)
